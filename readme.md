@@ -5,7 +5,7 @@ Setup url database in makefile
 ## Installation
 Installation Tool
 ```
-go get -u -d github.com/golang-migrate/migrate/cmd/migrate
+go install github.com/golang-migrate/migrate/cmd/migrate@latest
 ```
 
 Installation Driver
