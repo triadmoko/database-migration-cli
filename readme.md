@@ -21,7 +21,7 @@ make migration-create table=name
  
 script migration up
 ```bash
-make migration-create table=name
+make migration-up table=name
 ```
 
 script migration down
